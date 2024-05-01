@@ -71,10 +71,10 @@ Introduzir ao versionamento de código com Git e GitHub.
 <table>
   <tr>
     <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/danilojduarte"/>
     </td>
     <td align="left">
-      <a href="https://github.com/elidianaandrade">
+      <a href="https://github.com/danilojduarte">
         <span><b>Elidiana Andrade</b></span>
       </a>
       <br>
