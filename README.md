@@ -75,10 +75,10 @@ Introduzir ao versionamento de código com Git e GitHub.
     </td>
     <td align="left">
       <a href="https://github.com/danilojduarte">
-        <span><b>Elidiana Andrade</b></span>
+        <span><b>Danilo Duarte/b></span>
       </a>
       <br>
-      <span>Desenvolvedora Front-end</span>
+      <span>Desenvolvedor Front-end</span>
     </td>
   </tr>
 </table>
